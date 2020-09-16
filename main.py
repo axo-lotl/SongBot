@@ -2,7 +2,7 @@ import discord
 import os
 import time
 from dotenv import load_dotenv
-from songbotclient import SongBotClient
+from songbot import SongBotClient
 
 
 if __name__ == '__main__':
